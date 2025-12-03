@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "「ドライブ　デート　都内」",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-03T08:06:24.925740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」 (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_「ドライブ_デート_都内」_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_「ドライブ_デート_都内」_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「ドライブ デート 都内」",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_「ドライブ_デート_都内」_=LOVE.txt"
+    }
+  ]
+}
